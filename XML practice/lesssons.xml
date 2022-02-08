@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE lessons SYSTEM "lesssons_DTD.dtd" >
+<lessons>
+	<lesson id="a">
+		<Title>Физика</Title>
+		<LastNameTeacher>Иванов</LastNameTeacher>
+		<FirstNameTeacher>Петр</FirstNameTeacher>
+		<DateStart>02.02.2022</DateStart>
+		<DateEnd>31.05.2000</DateEnd>
+		<Time>09.00</Time>
+	</lesson>
+</lessons>

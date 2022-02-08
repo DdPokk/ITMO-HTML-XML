@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE library SYSTEM "library.dtd" >
+<llibrary>
+	<book_catalog id="a">
+		<Author>Петров</Author>
+		<Title>Физика</Title>
+		<Publishing>Звезда</Publishing>
+		<Anotation>Интересная книга</Anotation>
+	</book_catalog>
+	<author_catalog id="a">
+		<author_book>Иванов</author_book>
+			</author_catalog>
+	
+</lessons>

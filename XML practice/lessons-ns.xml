@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<lessons:TimeTable xmlns:lessons = "http://www.itmo.ru/xml/lessons">
+<book:TimeTable xmlns:book = "http://www.itmo.ru/xml/book">
+	<lesson id="a">
+		<Title>Физика</Title>
+		<LastNameTeacher>Иванов</LastNameTeacher>
+		<FirstNameTeacher>Петр</FirstNameTeacher>
+		<DateStart>02.02.2022</DateStart>
+		<DateEnd>31.05.2000</DateEnd>
+		<Time>09.00</Time>
+	</lesson>
+	<lesson id="b">
+		<Title>Химия</Title>
+		<LastNameTeacher>Сергеев</LastNameTeacher>
+		<FirstNameTeacher>Сергей</FirstNameTeacher>
+		<DateStart>02.02.2022</DateStart>
+		<DateEnd>31.05.2000</DateEnd>
+		<Time>10.00</Time>
+	</lesson>
+	<book id="a">
+		<Title>Психология</Title>
+		<LastNameAuthor>Михайлов</LastNameAuthor>
+		<FirstNameAuthor>Михаил</FirstNameAuthor>
+		<Date>02.02.2005</Date>
+	</book>
+	</book:TimeTable>
+</lessons:TimeTable>
